@@ -10,8 +10,6 @@
 
 import { fastify } from 'fastify'
 
-console.log('Requisição recebida!')
-
 const server = fastify()
 
 server.get('/', () => {
