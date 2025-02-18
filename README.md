@@ -1,5 +1,11 @@
 # CRUD-Node.js
 
-# Sincronizar Banco de dados
+# Sync branch
 
-# Testando branch Sync
+==============================================================
+
+# Sincronizar Banco de dados (PostgresJS) (USAR NEON?)
+
+# Deploy do projeto
+
+==============================================================
