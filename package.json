@@ -14,5 +14,14 @@
   "description": "",
   "dependencies": {
     "fastify": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorrfl/CRUD-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitorrfl/CRUD-Node.js/issues"
+  },
+  "homepage": "https://github.com/vitorrfl/CRUD-Node.js#readme"
 }
