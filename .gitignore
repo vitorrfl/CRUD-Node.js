@@ -1,0 +1,14 @@
+# dependencias — reinstalaveis com "npm install"
+node_modules/
+
+# variaveis de ambiente
+.env
+.env.local
+
+# logs
+npm-debug.log*
+*.log
+
+# sistema operacional
+.DS_Store
+Thumbs.db
